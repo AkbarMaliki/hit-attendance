@@ -72,6 +72,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/typicons.a509074c.eot"
   },
   {
+    "revision": "1cc48c684b4613efa13928d4958f586b",
+    "url": "images/screenshot1.jpg"
+  },
+  {
+    "revision": "5739a7ee76209ff9387529a0f80fa23c",
+    "url": "images/screenshot2.jpg"
+  },
+  {
     "revision": "e13af414eb1d520905df64f799dbbaa6",
     "url": "img/face-loading.e13af414.gif"
   },
