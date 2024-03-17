@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "chart.js"
   },
   {
-    "revision": "efe4bcf713f7cae443e8",
+    "revision": "4ce1f4ab4457e36eb011",
     "url": "css/app.66d5ee1e.css"
   },
   {
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "a5d151781bbf0e7801f65ee4b3ae4e31",
+    "revision": "fe033718493a20e89976cd87e9ac9e5d",
     "url": "index.html"
   },
   {
-    "revision": "efe4bcf713f7cae443e8",
-    "url": "js/app.f3bf3194.js"
+    "revision": "4ce1f4ab4457e36eb011",
+    "url": "js/app.91cf140c.js"
   },
   {
     "revision": "f7173345255a2c4a1f9f",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-daftar-wajah.6814f742.js"
   },
   {
-    "revision": "10810bd95de94d9345a1",
-    "url": "js/page-index.c1b63acc.js"
+    "revision": "5f2127798f32dd170746",
+    "url": "js/page-index.734e8344.js"
   },
   {
     "revision": "c43317c47f44eb6e7e93",
