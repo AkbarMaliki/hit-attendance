@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "chart.js"
   },
   {
-    "revision": "325ef66260d92f070a83",
+    "revision": "325e74915256d7c0639f",
     "url": "css/app.5fc26fba.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-absen-selfie.c04415dc.css"
   },
   {
-    "revision": "182f119582574500a667",
-    "url": "css/page-main-index.e5dcb87b.css"
+    "revision": "3783b55576177dac953d",
+    "url": "css/page-main-index.3beeaf9e.css"
   },
   {
     "revision": "a0fc6c24d1f3ff9ac281887c92b24acd",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "1955c218f92913dca57558d4404f73e4",
+    "revision": "bea02c551d2440c86cec968c8fc5b37f",
     "url": "index.html"
   },
   {
-    "revision": "325ef66260d92f070a83",
-    "url": "js/app.876d5636.js"
+    "revision": "325e74915256d7c0639f",
+    "url": "js/app.68625279.js"
   },
   {
     "revision": "f7173345255a2c4a1f9f",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-login.b40ff56c.js"
   },
   {
-    "revision": "182f119582574500a667",
-    "url": "js/page-main-index.51036ae6.js"
+    "revision": "3783b55576177dac953d",
+    "url": "js/page-main-index.95bf6ece.js"
   },
   {
     "revision": "2afb6878eed2bea553ff",
@@ -208,8 +208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-profile.22bba326.js"
   },
   {
-    "revision": "82da4e8d8cb10dbb6d37",
-    "url": "js/page-register-wajah.6711c004.js"
+    "revision": "0a5c005f8788668a60c4",
+    "url": "js/page-register-wajah.7330357c.js"
   },
   {
     "revision": "4f0283c6ce28e888000e978e537a6a56",
