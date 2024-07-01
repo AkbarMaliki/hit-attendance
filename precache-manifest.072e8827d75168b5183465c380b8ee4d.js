@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "chart.js"
   },
   {
-    "revision": "9d47fd09f4f53a4a4649",
+    "revision": "45b521764cd1f4ef3bf2",
     "url": "css/app.be9d08d7.css"
   },
   {
@@ -100,12 +100,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "3ee036b5e0a5754b8693fd86cfefdd31",
+    "revision": "6f393f293c508cf1e27ec92ff10734c4",
     "url": "index.html"
   },
   {
-    "revision": "9d47fd09f4f53a4a4649",
-    "url": "js/app.5edc2a8a.js"
+    "revision": "45b521764cd1f4ef3bf2",
+    "url": "js/app.624a416d.js"
   },
   {
     "revision": "f7173345255a2c4a1f9f",
